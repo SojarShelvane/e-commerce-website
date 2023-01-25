@@ -1,0 +1,74 @@
+.user-setting-icon,
+.cart-icon {
+  margin-left: 40px;
+}
+.cart-count {
+  margin-top: -37px;
+  border: 1px solid #fff;
+  border-radius: 50%;
+  margin-left: -13px;
+  background: #fff;
+  color: red;
+  padding: 0px 8px 0px 8px;
+}
+@media (max-width: 890px) {
+  .cart-count {
+    margin-top: -23px !important;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    margin-left: -10px !important;
+    background: #fff;
+    color: red;
+    padding: 0px 5px 0px 5px;
+    font-size: 13px;
+  }
+}
+.MuiSvgIcon-root .MuiSvgIcon-fontSizeMediu {
+  font-size: 45px;
+}
+.css-1633um2-MuiPaper-root {
+  margin-top: 20px !important;
+  padding: 0px !important;
+  box-shadow: none !important;
+}
+.css-1633um2-MuiPaper-root {
+  box-shadow: none !important;
+}
+.css-i4bv87-MuiSvgIcon-root {
+  font-size: 36px !important;
+}
+.css-gpzpaf-MuiPaper-root {
+  box-shadow: none !important;
+}
+.headerName {
+  color: black;
+  text-decoration: none;
+  margin: 30px;
+  font-size: 20px;
+}
+.css-1poimk-MuiPaper-root-MuiMenu-paper-MuiPaper-root-MuiPopover-paper {
+  width: 177px;
+  padding: 10px;
+}
+.css-1uwgr7b-MuiTypography-root {
+  text-decoration: none !important;
+}
+a:-webkit-any-link {
+  text-decoration: none;
+  color: black;
+}
+.css-tictur-MuiTypography-root {
+  font-size: 20px;
+  margin-right: 35px !important;
+}
+
+.css-14ogsoa-MuiModal-root-MuiPopover-root-MuiMenu-root {
+  width: 204px;
+}
+.css-1633um2-MuiPaper-root {
+  margin-bottom: 14px;
+}
+.css-123ha1x-MuiTypography-root {
+  margin-right: 35px !important;
+  font-size: 20px !important;
+}
