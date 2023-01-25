@@ -1,0 +1,40 @@
+.css-ta95xa-MuiImageListItem-root .MuiImageListItem-img {
+  width: 213% !important;
+  padding-left: 10px !important;
+}
+.brandJaiDurga {
+  text-decoration: underline !important;
+  color: rgb(119, 126, 227) !important;
+}
+.Coupon {
+  background-color: orange;
+  padding: 4px;
+}
+ul li {
+  list-style-type: none;
+}
+.css-1633um2-MuiPaper-root {
+  text-align: left !important;
+  line-height: 1.58rem !important;
+}
+.specification {
+  font-size: 16px;
+  font-weight: bold !important;
+}
+.itemDetails {
+  list-style-type: disc;
+}
+.product-details {
+  width: 100%;
+  padding: 60px 10vw;
+  display: flex;
+  justify-content: space-between;
+}
+
+.image-slider {
+  width: 500px;
+  height: 500px;
+  position: relative;
+  /*  background-image: url("E:/Nov14 Fantasy Project/fantasy-project-nov-14/src/assets/images/homeFurnishing/bed images/MaroonBedImages/Image1.jpg"); */
+  background-size: cover;
+}
