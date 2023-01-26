@@ -1,8 +1,8 @@
 import React from "react";
 import { Paper } from "@mui/material";
-import slider1 from "E:/Nov14 Fantasy Project/e-commerce-11janproject/src/assets/images/bannerSliderImages/slider1.jpg";
-import slider3 from "E:/Nov14 Fantasy Project/e-commerce-11janproject/src/assets/images/bannerSliderImages/slider3.jpg";
-import slider4 from "E:/Nov14 Fantasy Project/e-commerce-11janproject/src/assets/images/bannerSliderImages/slider4.jpg";
+import slider1 from "E:/Nov14 Fantasy Project/e-commerce-11janproject/src/assets/images/banner/slider1.jpg";
+import slider3 from "E:/Nov14 Fantasy Project/e-commerce-11janproject/src/assets/images/banner/slider3.jpg";
+import slider4 from "E:/Nov14 Fantasy Project/e-commerce-11janproject/src/assets/images/banner/slider4.jpg";
 import Carousel from "react-material-ui-carousel";
 
 const HomeCrousal = () => {
